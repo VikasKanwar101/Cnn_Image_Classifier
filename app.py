@@ -7,7 +7,7 @@ MODEL_PATH = 'cnn_classifier.h5'
 
 model = load_model(MODEL_PATH)
 
-class_names = ['anu','bharti','deepak','sudh']
+class_names = ['Cats','Dogs']
 
 st.set_page_config(page_title = "my student image class",layout = 'centered')
 
