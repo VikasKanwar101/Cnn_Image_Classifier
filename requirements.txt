@@ -1,3 +1,7 @@
-tensorflow
-matplotlib
 streamlit
+tensorflow
+numpy
+pillow
+matplotlib
+pydot
+graphviz
